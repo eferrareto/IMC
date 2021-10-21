@@ -24,4 +24,4 @@
 ### Resultado ###
 
 ![Captura de tela 2021-10-21 203609](https://user-images.githubusercontent.com/86567274/138370992-4f7d1f1e-5fb7-4b9c-80ad-ee9ba7f626d5.png)
->>>>>>> ba811ec9d53555006583a69be57df80eaa9dcde7
+
